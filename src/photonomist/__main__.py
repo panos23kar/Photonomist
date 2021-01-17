@@ -6,7 +6,7 @@
 """
 import os, shutil, subprocess
 import collections
-from photo import Photo
+from photonomist.photo import Photo
 
 
 def path_string(path:str)->str:
